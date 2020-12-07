@@ -3,25 +3,56 @@
   <a href="https://github.com/DivinerSun"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
   <a href="https://gitee.com/DivinerSun"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://www.diviner.site/"><img src="https://img.shields.io/badge/-Blog-ba4484" alt="blog"></a>
+  <a href="https://juejin.cn/user/2963939080804093"><img src="https://img.shields.io/badge/-掘金-007fff" alt="blog"></a>
 </p>
 
 <h2>✨ 我的GitHub统计 ✨</h2>
 
 [![DivinerSun✨'s github stats](https://github-readme-stats.vercel.app/api?username=DivinerSun&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📊 本周编码时长
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
-<!--
-**DivinerSun/DivinerSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** [ASCII字符生成器](https://www.bootschool.net/ascii) **
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                              666                                   6666                         
+                  666        66666                            666666666666                       
+                  66666       6666                           666666666666                        
+                 6666666666   6666                                66666                          
+                 6666666666   666666666666                      6666666666666                    
+                 6666666666   666666666666                    666666    66666                    
+                6666666666   666666666666          666        666666  66666                      
+              6666666666   666666666666        6666666666     666666666666                       
+             666666666   666666666666           66666666       66666666 666666                   
+           666666     666666666666                          6666666 666666666666                 
+          66666     6666666666666666                      666    666666666666666                 
+         6666            66666666666            66666    66    6666666   66666666                
+        66             6666   66666666666666  6666666   666  666666666   66666666                
+       6           666666666666666666666666        6    66666666  666666 66666666                
+                   66666666666666666666666        66    666666 666666666666666666                
+                   6666666666666666               66    666666666666666666666666   666666        
+                   666666     6666                66     6666    66666666666666    66 666        
+                              6666               666       66   66666666666666     666666        
+                              6666        66666666666            666666666                       
+                              6666       6666666666666666666666                                  
+                              66666       66       66666666666666666666666666                    
+                              66666                        666666666666666666666666666666        
+                              66666                             66666666666666666666666          
+                              66666                                 666666666666666              
+                              66666                                     66666666                 
+                              66666                                        666                   
+                             66666                                                               
+                             66666                                                               
+                             66666                                                               
+                             66666                                         
+                            66666                                                                
+                             6666                                                                
+                              6                                                                  
+                                                                                                 
+```
