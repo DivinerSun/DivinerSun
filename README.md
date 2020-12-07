@@ -5,10 +5,9 @@
   <a href="https://www.diviner.site/"><img src="https://img.shields.io/badge/-Blog-ba4484" alt="blog"></a>
 </p>
 
-<h2 align="center">✨ 我的GitHub统计 ✨</h2>
-<p align="center">
-  [![DivinerSun✨'s github stats](https://github-readme-stats.vercel.app/api?username=DivinerSun&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<h2>✨ 我的GitHub统计 ✨</h2>
+
+[![DivinerSun✨'s github stats](https://github-readme-stats.vercel.app/api?username=DivinerSun&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
