@@ -20,6 +20,10 @@
 
 <!--END_SECTION:waka-->
 
+## 💗 推荐项目
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ProphetTechnology&repo=nest-admin&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ** [ASCII字符生成器](https://www.bootschool.net/ascii) **
 
 ```
