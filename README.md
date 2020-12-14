@@ -10,12 +10,8 @@
 
 [![DivinerSun✨'s github stats](https://github-readme-stats.vercel.app/api?username=DivinerSun&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![DivinerSun✨'s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivinerSun&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 📊 本周编码时长
-[![DivinerSun✨'s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DivinerSun)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue)
 
