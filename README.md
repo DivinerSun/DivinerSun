@@ -1,9 +1,9 @@
 <h2 align="center">👋 欢迎访问我的GitHub 👋</h2>
 <p align="center">
-  <a href="https://github.com/DivinerSun"><img src="https://www.diviner.site/images/pub/svgs/github.svg" alt="github"></a>
-  <a href="https://gitee.com/DivinerSun"><img src="https://www.diviner.site/images/pub/svgs/gitee.svg" alt="gitee"></a>
-  <a href="https://www.diviner.site/"><img src="https://www.diviner.site/images/pub/svgs/blog.svg" alt="blog"></a>
-  <a href="https://juejin.cn/user/2963939080804093"><img src="https://www.diviner.site/images/pub/svgs/juejin.svg" alt="掘金"></a>
+  <a href="https://github.com/DivinerSun"><img src="./img/github.svg" alt="GitHub"></a>
+  <a href="https://gitee.com/DivinerSun"><img src="./img/gitee.svg" alt="Gitee"></a>
+  <a href="https://www.diviner.site/"><img src="./img/blog.svg" alt="Blog"></a>
+  <a href="https://juejin.cn/user/2963939080804093"><img src="./img/juejin.svg" alt="掘金"></a>
 </p>
 
 <h2>✨ 我的GitHub统计 ✨</h2>
