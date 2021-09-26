@@ -3,7 +3,7 @@
   <a href="https://github.com/DivinerSun"><img src="./img/github.svg" alt="GitHub"></a>
   <a href="https://gitee.com/DivinerSun"><img src="./img/gitee.svg" alt="Gitee"></a>
   <a href="https://www.diviner.site/"><img src="./img/blog.svg" alt="Blog"></a>
-  <a href="https://juejin.cn/user/2963939080804093"><img src="./img/juejin.svg" alt="掘金"></a>
+  <a href="https://juejin.cn/user/2823970167205341"><img src="./img/juejin.svg" alt="掘金"></a>
 </p>
 
 <h2>✨ 我的GitHub统计 ✨</h2>
