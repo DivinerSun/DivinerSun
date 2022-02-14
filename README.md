@@ -4,95 +4,46 @@
   <a href="https://gitee.com/DivinerSun"><img src="./img/gitee.svg" alt="Gitee"></a>
   <a href="https://www.diviner.site/"><img src="./img/blog.svg" alt="Blog"></a>
   <a href="https://juejin.cn/user/2823970167205341"><img src="./img/juejin.svg" alt="掘金"></a>
+  <a href="https://github.com/DivinerSun"><img src="https://komarev.com/ghpvc/?username=DivinerSun&color=ff69b4" alt="GitHub"></a>
 </p>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;技术栈
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)&nbsp;
+
 
 <h2>✨ 我的GitHub统计 ✨</h2>
 
+<p align="center">
+  <a href="https://github.com/DivinerSun">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DivinerSun&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DivinerSun&layout=compact&langs_count=8&theme=cobalt"/>
+  </a>
+</p>
+
+<!--
 [![DivinerSun✨'s github stats](https://github-readme-stats.vercel.app/api?username=DivinerSun&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DivinerSun&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 本周编码时长
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 8 Contributions in the Year 2021
- > 
-> 📦 160.2 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 6 Private Repositories  
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    40 commits     ███████░░░░░░░░░░░░░░░░░░   29.41% 
-🌆 Daytime    36 commits     ██████░░░░░░░░░░░░░░░░░░░   26.47% 
-🌃 Evening    45 commits     ████████░░░░░░░░░░░░░░░░░   33.09% 
-🌙 Night      15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.03%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       30 commits     █████░░░░░░░░░░░░░░░░░░░░   22.06% 
-Tuesday      19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
-Wednesday    14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.29% 
-Thursday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
-Friday       27 commits     █████░░░░░░░░░░░░░░░░░░░░   19.85% 
-Saturday     20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
-Sunday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   28 hrs 58 mins      ███████████████████████░░   92.31% 
-JavaScript               2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.62% 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
-SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
-
-🔥 Editors: 
-VS Code                  31 hrs 23 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-ow                       19 hrs 19 mins      ███████████████░░░░░░░░░░   61.57% 
-eye                      10 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   34.38% 
-oh                       35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
-ansadmin                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58% 
-oh_site                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
-
-💻 Operating System: 
-Mac                      31 hrs 23 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               6 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/DivinerSun/DivinerSun/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
