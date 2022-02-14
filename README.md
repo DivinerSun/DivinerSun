@@ -24,6 +24,7 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)&nbsp;
 
 
+<br>
 <h2>✨ 我的GitHub统计 ✨</h2>
 
 <p align="center">
@@ -36,10 +37,6 @@
 <!--
 [![DivinerSun✨'s github stats](https://github-readme-stats.vercel.app/api?username=DivinerSun&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-<hr>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DivinerSun&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 本周编码时长
 
