@@ -4,7 +4,6 @@
   <a href="https://gitee.com/DivinerSun"><img src="./img/gitee.svg" alt="Gitee"></a>
   <a href="https://www.diviner.site/"><img src="./img/blog.svg" alt="Blog"></a>
   <a href="https://juejin.cn/user/2823970167205341"><img src="./img/juejin.svg" alt="掘金"></a>
-  <a href="https://github.com/DivinerSun"><img src="https://komarev.com/ghpvc/?username=DivinerSun&color=ff69b4" alt="GitHub"></a>
 </p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
