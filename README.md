@@ -29,7 +29,7 @@
 ![VueRouter](https://img.shields.io/badge/-VueRouter-05122A?style=flat&logo=vue.js)&nbsp;
 ![Vuex](https://img.shields.io/badge/-Vuex-05122A?style=flat&logo=vue.js)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs&logoColor=ce3951)\
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs&logoColor=ce3951)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Koa.js](https://img.shields.io/badge/-Koa.js-05122A?style=flat&logo=koa)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
