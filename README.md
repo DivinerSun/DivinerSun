@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DivinerSun"><img src="./img/github.svg" alt="GitHub"></a>
   <a href="https://gitee.com/DivinerSun"><img src="./img/gitee.svg" alt="Gitee"></a>
-  <a href="https://www.diviner.site/"><img src="./img/blog.svg" alt="Blog"></a>
+  <a href="https://www.codefish.site/"><img src="./img/blog.svg" alt="Blog"></a>
   <a href="https://juejin.cn/user/2823970167205341"><img src="./img/juejin.svg" alt="掘金"></a>
 </p>
 
@@ -16,29 +16,31 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Bun](https://img.shields.io/badge/-Bun-05122A?style=flat&logo=bun)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
 
 ##### 语言框架
+###### 前端
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-05122A?style=flat&logo=reactrouter)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=flat&logo=zustand)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs&logoColor=ce3951)&nbsp;
+![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=flat&logo=foodpanda&logoColor=a37361)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss&logoColor=e35259)&nbsp;
 
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
-![VueRouter](https://img.shields.io/badge/-VueRouter-05122A?style=flat&logo=vue.js)&nbsp;
-![Vuex](https://img.shields.io/badge/-Vuex-05122A?style=flat&logo=vue.js)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs)&nbsp;
+![VueRouter](https://img.shields.io/badge/-VueRouter-05122A?style=flat&logo=vuedotjs)&nbsp;
+![Vuex](https://img.shields.io/badge/-Vuex-05122A?style=flat&logo=vuedotjs)&nbsp;
+![Pinia](https://img.shields.io/badge/-Pinia-05122A?style=flat&logo=raspberrypi&logoColor=f8d063)&nbsp;
 
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Koa.js](https://img.shields.io/badge/-Koa.js-05122A?style=flat&logo=koa)&nbsp;
-![AntDesign](https://img.shields.io/badge/-AntDesign-05122A?style=flat&logo=antdesign&logoColor=e35259)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![ElementPlus](https://img.shields.io/badge/-ElementPlus-05122A?style=flat&logo=element&logoColor=e35259)&nbsp;
+###### 后端
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs&logoColor=ce3951)&nbsp;
+![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=gin)&nbsp;
+![Axum](https://img.shields.io/badge/-Axum-05122A?style=flat&logo=canvas)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 
 
 ##### 数据存储
@@ -50,13 +52,13 @@
 ##### 常用工具
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
+![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=Neovim)&nbsp;
+![Obsidian](https://img.shields.io/badge/-Obsidian-05122A?style=flat&logo=obsidian)&nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)&nbsp;
-![Goland](https://img.shields.io/badge/-Goland-05122A?style=flat&logo=goland)&nbsp;
 
 
 <br>
